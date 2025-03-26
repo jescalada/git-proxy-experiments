@@ -5,3 +5,5 @@ First commit
 Testing GP push intercept.
 
 Testing GP push intercept - debugging zlib unpack
+
+Testing GP push intercept - debugging scanDiff undefined issue
