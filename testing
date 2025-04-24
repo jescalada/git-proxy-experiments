@@ -21,3 +21,5 @@ Testing parsePush (3).
 Testing parsePush (4).
 
 Testing PACK fixes.
+
+Testing empty commit message.
