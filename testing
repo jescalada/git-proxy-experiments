@@ -25,3 +25,5 @@ Testing PACK fixes.
 Testing empty commit message.
 
 Testing multiline commit message display.
+
+Testing new branch - linear history (3.2).
