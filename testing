@@ -41,3 +41,5 @@ Testing new branch creation from unapproved commit. Testing addition from new br
 Testing new branch creation from unapproved commit (commit #1). Commit #2. Commit #3.
 
 Testing empty branch creation.
+
+Testing SSH.
