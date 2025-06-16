@@ -47,3 +47,5 @@ Testing SSH. Testing SSH again.
 Testing new branch - merge conflict fix. (unapproved commit)
 
 Testing commit from new branch - merge conflict fix. (approved commit)
+
+Testing #973 approval flow.
