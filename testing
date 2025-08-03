@@ -75,3 +75,5 @@ Testing missing commitData flow.
 Testing missing commitData flow (new-branch).
 
 Testing missing commitData on merge commit.
+
+Testing merge commit missing commitData.
