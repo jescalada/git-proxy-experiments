@@ -81,3 +81,5 @@ Testing merge commit missing commitData.
 Testing basic flow (multiple host support).
 
 Testing unapproved commit flow (multiple host support).
+
+Testing unapproved commit flow - new branch (multiple host support).
