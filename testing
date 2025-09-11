@@ -119,3 +119,5 @@ Test commit time (pullRemote optimization) 1 - enhanced fix.
 Test commit time (pullRemote optimization) 2 - enhanced fix.
 
 Test commit time (pullRemote optimization) 3 - more logging.
+
+Test commit time (pullRemote optimization) 4 - proxyFilter URL check.
