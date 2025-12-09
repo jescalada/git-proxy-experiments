@@ -129,3 +129,5 @@ Test commit time (pullRemote optimization) 6 - writePack profiling.
 Test subsequent push bug 1.
 
 Test subsequent push bug 2.
+
+Test SSH pushes.
