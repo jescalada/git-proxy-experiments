@@ -131,3 +131,5 @@ Test subsequent push bug 1.
 Test subsequent push bug 2.
 
 Test SSH pushes.
+
+Test rejection (v1).
