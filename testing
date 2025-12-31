@@ -133,3 +133,5 @@ Test subsequent push bug 2.
 Test SSH pushes.
 
 Test rejection (v1).
+
+Testing successful chain execution message.
