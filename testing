@@ -135,3 +135,5 @@ Test SSH pushes.
 Test rejection (v1).
 
 Testing successful chain execution message.
+
+Test invalid regex patterns in commitConfig.
