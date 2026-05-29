@@ -139,3 +139,5 @@ Testing successful chain execution message.
 Test invalid regex patterns in commitConfig.
 
 Testing rc.5 - regular push flow.
+
+Testing SSH push flow - simple commit.
